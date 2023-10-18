@@ -2,8 +2,8 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    username: 'irgendwasmitfelix', // Your GitHub org/user name. (Required)
+    sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -12,53 +12,49 @@ const config = {
   },
   social: {
     linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    twitter: 'irgendwasmitfelix',
+    //mastodon: 'arifszn@mastodon.social',
     facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    instagram: 'irgendwasmitfelix',
+    youtube: 'irgendwasmitfelix', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    //medium: 'arifszn',
     dev: 'arifszn',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'f.helleckes@proton.me',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Python',
+    'Webdriver.io',
+    'locust.io',
+    'kubernetes',
+    'Postman',
     'MySQL',
-    'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Jira / Xray Testmanagement / Automation',
   ],
   experiences: [
     {
       company: 'Company Name',
-      position: 'Position',
+      position: 'Associate-Manager:Quality Assurance',
       from: 'September 2021',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Grandcentrix',
+      position: 'QA-Tester',
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
@@ -74,17 +70,17 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Hönne Berufskolleg Menden',
+      degree: 'Fachabitur & Schulische Ausbildung',
       from: '2015',
       to: '2019',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+    // {
+    //   institution: 'Institution Name',
+    //   degree: 'Degree',
+    //   from: '2012',
+    //   to: '2014',
+    // },
   ],
 
   // To hide the `My Projects` section, keep it empty.
