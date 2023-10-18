@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1lgacTN0f1dQsYgJG96Lg2RB_BlD5dllz/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
@@ -43,6 +43,7 @@ const config = {
     'Git',
     'Docker',
     'Jira / Xray Testmanagement / Automation',
+    'Testrail'
   ],
   experiences: [
     {
@@ -130,8 +131,8 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
-      'dark',
+      //'light',
+      //'dark',
       // 'cupcake',
       // 'bumblebee',
       // 'emerald',
@@ -148,16 +149,16 @@ const config = {
       // 'pastel',
       // 'fantasy',
       // 'wireframe',
-      // 'black',
+      'black',
       // 'luxury',
       // 'dracula',
       // 'cmyk',
       // 'autumn',
-      'business',
+      //'business',
       //'acid',
       //'lemonade',
       //'night',
-      //'coffee',
+      'coffee',
       //'winter',
       //'procyon',
     ],
