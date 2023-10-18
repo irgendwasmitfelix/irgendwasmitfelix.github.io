@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'felix-helleckes-758529202/',
-    twitter: 'irgendwasmitfelix',
+    //twitter: 'irgendwasmitfelix',
     //mastodon: 'arifszn@mastodon.social',
     //facebook: '',
     instagram: 'irgendwasmitfelix',
