@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'felix-helleckes',
+    linkedin: 'felix-helleckes-758529202/',
     twitter: 'irgendwasmitfelix',
     //mastodon: 'arifszn@mastodon.social',
     //facebook: '',
@@ -20,8 +20,8 @@ const config = {
     //dribbble: '',
     //behance: '',
     //medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    //dev: 'arifszn',
+    //stackoverflow: '', // example: '1/jeff-atwood'
     //skype: '',
     //telegram: '',
     website: 'irgendwasmitfelix.github.io',
@@ -46,18 +46,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
+      company: 'Peek & Cloppenburg (Fashion Digital)',
       position: 'Associate-Manager:Quality Assurance',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      from: 'Dez 2021',
+      to: 'Oct 2023',
+      companyLink: 'https://www.peek-cloppenburg.de/',
     },
     {
       company: 'Grandcentrix',
       position: 'QA-Tester',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      from: 'Feb 2018',
+      to: 'Feb 2021',
+      companyLink: 'https://grandcentrix.net/de/',
     },
   ],
   /* certifications: [
@@ -84,26 +84,26 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-  ],
+  // externalProjects: [
+  //   {
+  //     title: 'Project Name',
+  //     description:
+  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+  //     imageUrl: 'https://via.placeholder.com/250x250',
+  //     link: 'https://example.com',
+  //   },
+  //   {
+  //     title: 'Project Name',
+  //     description:
+  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+  //     imageUrl: 'https://via.placeholder.com/250x250',
+  //     link: 'https://example.com',
+  //   },
+  // ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'Florian H.', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -132,34 +132,34 @@ const config = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
+      // 'cupcake',
+      // 'bumblebee',
+      // 'emerald',
+      // 'corporate',
+      // 'synthwave',
+      // 'retro',
+      // 'cyberpunk',
+      // 'valentine',
+      // 'halloween',
+      // 'garden',
+      // 'forest',
+      // 'aqua',
+      // 'lofi',
+      // 'pastel',
+      // 'fantasy',
+      // 'wireframe',
+      // 'black',
+      // 'luxury',
+      // 'dracula',
+      // 'cmyk',
+      // 'autumn',
       'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'procyon',
+      //'acid',
+      //'lemonade',
+      //'night',
+      //'coffee',
+      //'winter',
+      //'procyon',
     ],
 
     // Custom theme
