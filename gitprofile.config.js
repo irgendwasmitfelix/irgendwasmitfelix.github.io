@@ -7,7 +7,7 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: [assessment], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -33,15 +33,20 @@ const config = {
       'https://drive.google.com/file/d/1lgacTN0f1dQsYgJG96Lg2RB_BlD5dllz/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'E2E-Testautomation',
+    'Stresstests'
+    'Test-Management in Scrum'
     'JavaScript',
     'Python',
     'Webdriver.io',
+    'Selenium/Appium',
+    'Cypress.io',
     'locust.io',
     'kubernetes',
     'Postman',
     'MySQL',
-    'Git',
     'Docker',
+    'Jenkins CI/CD',
     'Jira / Xray Testmanagement / Automation',
     'Testrail'
   ],
@@ -131,7 +136,7 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      //'light',
+      'light',
       //'dark',
       // 'cupcake',
       // 'bumblebee',
@@ -177,7 +182,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/irgendwasmitfelix/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
