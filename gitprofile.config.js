@@ -144,6 +144,8 @@ const config = {
     // Available themes. To remove any theme, exclude from here.
     themes: [
       'light',
+      'black',
+      'coffee',
       //'dark',
       // 'cupcake',
       // 'bumblebee',
@@ -161,7 +163,6 @@ const config = {
       // 'pastel',
       // 'fantasy',
       // 'wireframe',
-      'black',
       // 'luxury',
       // 'dracula',
       // 'cmyk',
@@ -170,7 +171,6 @@ const config = {
       //'acid',
       //'lemonade',
       //'night',
-      'coffee',
       //'winter',
       //'procyon',
     ],
