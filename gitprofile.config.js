@@ -59,6 +59,13 @@ const config = {
       companyLink: 'https://www.peek-cloppenburg.de/',
     },
     {
+      company: 'Ampada',
+      position: 'QA-Engineer',
+      from: 'Feb 2021',
+      to: 'Aug 2021',
+      companyLink: 'https://grandcentrix.net/de/',
+    },
+    {
       company: 'Grandcentrix',
       position: 'QA-Tester',
       from: 'Feb 2018',
@@ -90,22 +97,22 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  // externalProjects: [
-  //   {
-  //     title: 'Project Name',
-  //     description:
-  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-  //     imageUrl: 'https://via.placeholder.com/250x250',
-  //     link: 'https://example.com',
-  //   },
-  //   {
-  //     title: 'Project Name',
-  //     description:
-  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-  //     imageUrl: 'https://via.placeholder.com/250x250',
-  //     link: 'https://example.com',
-  //   },
-  // ],
+  Projects: [
+    {
+      title: 'Migros App',
+      description:
+        'Migros Genossenschaft is the largest Swiss retailer and one of the 40 largest retailers worldwide. Within the group, almost all relevant retail services are offered. With its restaurants, for example, Migros is one of the largest gastronomy companies in Switzerland. In addition to grocery stores, it also has DIY stores, electronics stores, sporting goods stores and furniture stores under its roof.',
+      imageUrl: 'https://grandcentrix.net/references/images/logo-migros.svg',
+      link: 'https://grandcentrix.net/de/references/migros/',
+    },
+    {
+      title: 'Leica Camera App',
+      description:
+        'The first almost 2 years at Grandcentrix I worked on the Leica camera app. I created a test concept for various cameras and a wide portfolio of Android and iOS versions. In addition, I managed the entire test process in Scrum, partly also with external service providers (personnel responsibility).',
+      imageUrl: 'https://grandcentrix.net/references/images/logo-leica.svg',
+      link: 'https://grandcentrix.net/de/references/leica',
+    },
+  ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
