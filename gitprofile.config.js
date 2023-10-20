@@ -99,6 +99,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'And many more in app, IoT and web development',
+      description:
+      'I am not able to mention by name here, unfortunately. Please feel free to ask in Person :)',
+      imageUrl: '',
+      link: 'mailto:f.helleckes@proton.me',
+    },
+    {
       title: 'Peek & Cloppenburg Web Apps',
       description:
       'Peek & Cloppenburg is a German fashion retailer founded in 1869. With a bunch of employees there was a lot of internal projects which we developed and I also got in touch with E Commerce Development and automated a lot of stuff with webdriver and locust.io',
