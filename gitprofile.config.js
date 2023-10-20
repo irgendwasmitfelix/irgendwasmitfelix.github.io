@@ -99,6 +99,20 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'Peek & Cloppenburg Web Apps',
+      description:
+      'Peek & Cloppenburg is a German fashion retailer founded in 1869. With a bunch of employees there was a lot of internal projects which we developed and I also got in touch with the E Commerce Development',
+      imageUrl: 'https://images.prismic.io/puc-com/cf636287-01c1-4982-b526-22de001d01a4_MicrosoftTeams-image.png?auto=compress,format',
+      link: 'https://www.peek-cloppenburg.de/',
+    },
+    {
+      title: 'Hörmann Door and gate control with Apple Homekit',
+      description:
+        ' The Hörmann Group is Europes leading supplier of doors and gates. More than 20 million doors have been produced and delivered worldwide since the company was founded in 1935. In 36 specialized plants in Europe, North America and Asia, with more than 6,000 employees.',
+      imageUrl: 'https://grandcentrix.net/references/images/logo-hoermann.svg',
+      link: 'https://grandcentrix.net/de/references/hoermann/',
+    },
+    {
       title: 'Migros App',
       description:
         'Migros Genossenschaft is the largest Swiss retailer and one of the 40 largest retailers worldwide. Within the group, almost all relevant retail services are offered. With its restaurants, for example, Migros is one of the largest gastronomy companies in Switzerland. In addition to grocery stores, it also has DIY stores, electronics stores, sporting goods stores and furniture stores under its roof.',
