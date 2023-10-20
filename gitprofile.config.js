@@ -97,7 +97,7 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  Projects: [
+  externalProjects: [
     {
       title: 'Migros App',
       description:
@@ -192,7 +192,7 @@ const config = {
       class="text-primary" href="https://react.dev/"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >React.dev</a> and ❤️`,
 };
 
 export default config;
