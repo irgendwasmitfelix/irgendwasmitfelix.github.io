@@ -102,21 +102,21 @@ const config = {
       title: 'Peek & Cloppenburg Web Apps',
       description:
       'Peek & Cloppenburg is a German fashion retailer founded in 1869. With a bunch of employees there was a lot of internal projects which we developed and I also got in touch with E Commerce Development and automated a lot of stuff with webdriver and locust.io',
-      imageUrl: 'https://images.prismic.io/puc-com/cf636287-01c1-4982-b526-22de001d01a4_MicrosoftTeams-image.png?auto=compress,format',
+      imageUrl: 'https://play-lh.googleusercontent.com/yycoMy1dTRJMFbwyvIpctd44_T7MSvZF-oQ9jnrPDdzqJad2Lirrvjep3aLpx4D8_pQ',
       link: 'https://www.peek-cloppenburg.de/',
     },
     {
       title: 'Hörmann Door and gate control with Apple Homekit',
       description:
         ' The Hörmann Group is Europes leading supplier of doors and gates. More than 20 million doors have been produced and delivered worldwide since the company was founded in 1935. In 36 specialized plants in Europe, North America and Asia, with more than 6,000 employees.',
-      //imageUrl: 'https://grandcentrix.net/references/images/logo-hoermann.svg',
+      imageUrl: 'https://play-lh.googleusercontent.com/MMal2qIQH9XwutrSeFFCxbEwdBIR4t5E48Mqpv9IvhqoR4Cy-W2J7TJq4k94Vg1Erg',
       link: 'https://grandcentrix.net/de/references/hoermann/',
     },
     {
       title: 'Migros App',
       description:
         'Migros Genossenschaft is the largest Swiss retailer and one of the 40 largest retailers worldwide. Within the group, almost all relevant retail services are offered. With its restaurants, for example, Migros is one of the largest gastronomy companies in Switzerland. In addition to grocery stores, it also has DIY stores, electronics stores, sporting goods stores and furniture stores under its roof.',
-      //imageUrl: 'https://grandcentrix.net/references/images/logo-migros.svg',
+      imageUrl: 'https://corporate.migros.ch/.imaging/default/dam/images/unternehmen/neues-aus-der-migros/2020/50_App_Guide/migros-online-app-16-9-neu.jpg/jcr:content.jpg',
       link: 'https://grandcentrix.net/de/references/migros/',
     },
     {
