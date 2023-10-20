@@ -34,7 +34,7 @@ const config = {
   },
   skills: [
     'E2E-Testautomation',
-    'Stresstests',
+    'Pentesting',
     'Test-Management in Scrum',
     'JavaScript',
     'Python',
