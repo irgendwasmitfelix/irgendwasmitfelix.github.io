@@ -112,13 +112,13 @@ const config = {
       imageUrl: 'https://play-lh.googleusercontent.com/yycoMy1dTRJMFbwyvIpctd44_T7MSvZF-oQ9jnrPDdzqJad2Lirrvjep3aLpx4D8_pQ',
       link: 'https://www.peek-cloppenburg.de/',
     },
-    // {
-    //   title: 'Hörmann Door and gate control with Apple Homekit',
-    //   description:
-    //     ' The Hörmann Group is Europes leading supplier of doors and gates. More than 20 million doors have been produced and delivered worldwide since the company was founded in 1935. In 36 specialized plants in Europe, North America and Asia, with more than 6,000 employees.',
-    //   imageUrl: 'https://play-lh.googleusercontent.com/MMal2qIQH9XwutrSeFFCxbEwdBIR4t5E48Mqpv9IvhqoR4Cy-W2J7TJq4k94Vg1Erg',
-    //   link: 'https://grandcentrix.net/de/references/hoermann/',
-    // },
+    {
+      title: 'Bega - The Good Light',
+      description:
+        'The bega connect gateway is a smart home gateway that supports Zigbee and DALI. It allows you to connect and control Zigbee and DALI devices with your smartphone or tablet.',
+      imageUrl: 'https://image.winudf.com/v2/image1/ZGUuYmVnYS5iZWdhY29ubmVjdF9pY29uXzE2MTc5NjQwMTFfMDky/icon.png?w=184&fakeurl=1',
+      link: 'https://connect.bega.com/en',
+    },
     {
       title: 'Migros App',
       description:
