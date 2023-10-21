@@ -44,10 +44,9 @@ const config = {
     'locust.io',
     'kubernetes',
     'Postman',
-    'MySQL',
     'Docker',
     'Jenkins CI/CD',
-    'Jira / Xray Testmanagement / Automation',
+    'Jira / Xray Testmanagement',
     'Testrail'
   ],
   experiences: [
