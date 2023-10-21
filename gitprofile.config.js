@@ -113,6 +113,13 @@ const config = {
       link: 'https://www.peek-cloppenburg.de/',
     },
     {
+      title: 'KFW',
+      description:
+      'KfW, or Kreditanstalt für Wiederaufbau, is a German development bank. It is owned by the German government and provides loans and other financial services to businesses, governments, and individuals. KfW`s main focus is on promoting economic development and social welfare in Germany',
+      imageUrl: 'https://www.kfw-ipex-bank.de/Techn-Medien/Logos/Social-Media/KfW_IPEX_Logo_180x180px.png',
+      link: 'https://www.kfw.de/kfw.de.html',
+    },
+    {
       title: 'Bega - The Good Light',
       description:
         'The bega connect gateway is a smart home gateway that supports Zigbee and DALI. It allows you to connect and control Zigbee and DALI devices with your smartphone or tablet.',
