@@ -42,12 +42,13 @@ const config = {
     'Selenium/Appium',
     'Cypress.io',
     'locust.io',
-    'kubernetes',
+    'SAP 4S/Hana TaT',
     'Postman',
     'Docker',
     'Jenkins CI/CD',
     'Jira / Xray Testmanagement',
-    'Testrail'
+    'Testrail',
+    'Testmo'
   ],
   experiences: [
     {
