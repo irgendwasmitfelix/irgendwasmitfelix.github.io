@@ -15,8 +15,8 @@ const config = {
     //twitter: 'irgendwasmitfelix',
     //mastodon: 'arifszn@mastodon.social',
     //facebook: '',
-    instagram: 'irgendwasmitfelix',
-    youtube: 'irgendwasmitfelix', // example: 'pewdiepie'
+    //instagram: 'irgendwasmitfelix',
+    //youtube: 'irgendwasmitfelix', // example: 'pewdiepie'
     //dribbble: '',
     //behance: '',
     //medium: 'arifszn',
@@ -130,14 +130,14 @@ const config = {
       title: 'Migros App',
       description:
         'Migros Genossenschaft is the largest Swiss retailer and one of the 40 largest retailers worldwide. Within the group, almost all relevant retail services are offered. With its restaurants, for example, Migros is one of the largest gastronomy companies in Switzerland. In addition to grocery stores, it also has DIY stores, electronics stores, sporting goods stores and furniture stores under its roof.',
-      imageUrl: 'https://corporate.migros.ch/.imaging/default/dam/images/unternehmen/neues-aus-der-migros/2020/50_App_Guide/migros-online-app-16-9-neu.jpg/jcr:content.jpg',
+      imageUrl: 'https://corporate.migros.ch/_next/static/media/mLogo.abe368b1.svg',
       link: 'https://grandcentrix.net/de/references/migros/',
     },
     {
       title: 'Leica Camera App',
       description:
         'The first almost 2 years at Grandcentrix I worked on the Leica camera app. I created a test concept for various cameras and a wide portfolio of Android and iOS versions. In addition, I managed the entire test process in Scrum, partly also with external service providers (personnel responsibility).',
-      imageUrl: 'https://grandcentrix.net/references/images/logo-leica.svg',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Leica_Camera_logo.svg/2048px-Leica_Camera_logo.svg.png',
       link: 'https://grandcentrix.net/de/references/leica',
     },
   ],
