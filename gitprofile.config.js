@@ -33,24 +33,26 @@ const config = {
       'https://drive.google.com/file/d/1lgacTN0f1dQsYgJG96Lg2RB_BlD5dllz/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'E2E-Testautomation',
-    'Pentesting',
-    'Test-Management in Scrum',
-    'JavaScript',
-    'Python',
+    'Playwright',
     'Webdriver.io',
     'Selenium/Appium',
     'Cypress.io',
     'locust.io',
-    'SAP 4S/Hana TaT',
+    'SAP 4S/Hana TestautomatisierungsTool',
     'Postman',
-    'Docker',
     'Jenkins CI/CD',
-    'Jira / Xray Testmanagement',
     'Testrail',
+    'Test-Management im Scrum Workflow',
     'Testmo'
   ],
   experiences: [
+      {
+      company: 'Bike24',
+      position: 'QA-Engineer',
+      from: 'Nov 2023',
+      to: 'now',
+      companyLink: 'https://www.bike24.de/',
+    },
     {
       company: 'Peek & Cloppenburg (Fashion Digital)',
       position: 'Associate-Manager:Quality Assurance',
