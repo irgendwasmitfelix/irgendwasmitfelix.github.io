@@ -107,13 +107,13 @@ const config = {
       imageUrl: '',
       link: 'mailto:f.helleckes@proton.me',
     },
-    //  {
-    //   title: 'Bike24',
-    //   description:
-    //   'Automated SAP4S/Hana for the Procurement and Inbound department. I also automated in Playwright the Search and Filter functionality for the Bike24 Webshop. In addition, I am responsible for the test management tool Testmo and the CI/CD pipeline in Jenkins.',
-    //   imageUrl: 'https://s3-eu-west-1.amazonaws.com/tpd/logos/5f7727eeff11cd000138c964/0x0.png',
-    //   link: 'https://www.bike24.de/',
-    // },
+     {
+      title: 'Bike24',
+      description:
+      'Automated SAP4S/Hana for the Procurement and Inbound department. I also automated in Playwright the Search and Filter functionality for the Bike24 Webshop. In addition, I am responsible for the test management tool Testmo and the CI/CD pipeline in Jenkins.',
+      imageUrl: 'https://s3-eu-west-1.amazonaws.com/tpd/logos/5f7727eeff11cd000138c964/0x0.png',
+      link: 'https://www.bike24.de/',
+    },
     {
       title: 'Peek & Cloppenburg Web Apps',
       description:
