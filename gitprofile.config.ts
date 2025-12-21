@@ -86,7 +86,7 @@ const config = {
       institution: 'Hönne Berufskolleg Menden',
       degree: 'Fachabitur & Schulische Ausbildung',
       from: '2015',
-      to: '2019',
+      to: '2018',
     },
     // {
     //   institution: 'Institution Name',
