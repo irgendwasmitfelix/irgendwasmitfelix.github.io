@@ -22,7 +22,7 @@ const config = {
         {
           title: 'Bike24',
           description:
-            'Automated an Supply Chain Management Solution for Bike24 based on SAP 4S/Hana.',
+            'Automated an Supply Chain Management Solution for Bike24 based on SAP 4S/Hana. Also got in touch with their E Commerce Platform and automated various user flows with Webdriver.io and locust.io for performance testing.',
           imageUrl: 'https://s3-eu-west-1.amazonaws.com/tpd/logos/5f7727eeff11cd000138c964/0x0.png',
           link: 'https://www.bike24.de/',
         },
