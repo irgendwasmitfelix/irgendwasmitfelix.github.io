@@ -10,6 +10,11 @@ const config = {
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
+  seo: {
+    title: 'Felix Helleckes - QA Engineer & Portfolio',
+    description: 'Portfolio von Felix Helleckes, QA-Engineer mit Expertise in Test Automation, Playwright, Webdriver.io und CI/CD',
+    imageURL: 'https://avatars.githubusercontent.com/u/irgendwasmitfelix',
+  },
   social: {
     linkedin: 'felix-helleckes-758529202/',
     //twitter: 'irgendwasmitfelix',
