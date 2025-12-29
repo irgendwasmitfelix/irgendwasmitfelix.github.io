@@ -24,7 +24,7 @@ const config = {
     //stackoverflow: '', // example: '1/jeff-atwood'
     //skype: '',
     //telegram: '',
-    website: 'https://irgendwasmitfelix.gumroad.com/',
+    //website: 'https://irgendwasmitfelix.gumroad.com/',
     phone: '+491758316710',
     email: 'f.helleckes@proton.me',
   },
