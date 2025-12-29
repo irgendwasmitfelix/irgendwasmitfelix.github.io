@@ -20,11 +20,11 @@ const config = {
       header: 'Other Projects',
       projects: [
         {
-          title: 'And many more in app, IoT and web development',
+          title: 'Bike24',
           description:
-            'I am not able to mention by name here, unfortunately. Please feel free to ask in Person :)',
-          imageUrl: '',
-          link: 'mailto:f.helleckes@proton.me',
+            'Automated an Supply Chain Management Solution for Bike24 based on SAP 4S/Hana.',
+          imageUrl: 'https://s3-eu-west-1.amazonaws.com/tpd/logos/5f7727eeff11cd000138c964/0x0.png',
+          link: 'https://www.bike24.de/',
         },
         {
           title: 'Peek & Cloppenburg Web Apps',
