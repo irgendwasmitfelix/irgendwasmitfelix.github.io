@@ -91,6 +91,7 @@ const config = {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'n8n Workflow Automation (json, javascript)',
     'Playwright',
     'Webdriver.io',
     'Selenium/Appium',
@@ -98,6 +99,7 @@ const config = {
     'SAP 4S/Hana TestautomatisierungsTool',
     'Postman',
     'Jenkins CI/CD',
+    'Docker',
     'Testrail',
     'Test-Management im Scrum Workflow',
     'Testmo'
