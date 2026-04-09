@@ -71,16 +71,17 @@ const config = {
   },
   social: {
     linkedin: 'felix-helleckes-758529202/',
+    //twitter: 'irgendwasmitfelix',
     //mastodon: 'arifszn@mastodon.social',
     //facebook: '',
     //instagram: 'irgendwasmitfelix',
-    //youtube: 'irgendwasmitfelix', // example: 'pewdiepie'
+    youtube: 'TheEfficientDev', // example: 'pewdiepie'
     //dribbble: '',
     //behance: '',
     //medium: 'arifszn',
-    dev: 'https://dev.to/felix-helleckes',
+    dev: 'felix-helleckes',
     stackoverflow: 'https://stackoverflow.com/users/15774380/felix-helleckes', // example: '1/jeff-atwood'
-    dailydev: 'https://app.daily.dev/felixhelleckes',
+    //skype: '',
     //telegram: '',
     website: 'https://felixhelleckes.gumroad.com/',
     //phone: '+491758316710',
