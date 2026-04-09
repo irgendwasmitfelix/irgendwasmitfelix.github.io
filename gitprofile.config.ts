@@ -79,12 +79,12 @@ const config = {
     //dribbble: '',
     //behance: '',
     //medium: 'arifszn',
-    //dev: 'arifszn',
-    //stackoverflow: '', // example: '1/jeff-atwood'
-    //skype: '',
+    dev: 'https://dev.to/felix-helleckes',
+    stackoverflow: 'https://stackoverflow.com/users/15774380/felix-helleckes', // example: '1/jeff-atwood'
+    dailydev: 'https://app.daily.dev/felixhelleckes',
     //telegram: '',
     website: 'https://felixhelleckes.gumroad.com/',
-    phone: '+491758316710',
+    //phone: '+491758316710',
     email: 'f.helleckes@proton.me',
   },
   resume: {
