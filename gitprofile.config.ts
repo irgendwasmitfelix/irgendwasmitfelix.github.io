@@ -83,7 +83,7 @@ const config = {
     stackoverflow: 'https://stackoverflow.com/users/15774380/felix-helleckes', // example: '1/jeff-atwood'
     //skype: '',
     //telegram: '',
-    website: 'https://felixhelleckes.gumroad.com/',
+    website: 'https://felix-helleckes.github.io/',
     //phone: '+491758316710',
     email: 'f.helleckes@proton.me',
   },
