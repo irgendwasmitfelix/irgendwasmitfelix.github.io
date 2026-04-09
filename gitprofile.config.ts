@@ -67,7 +67,7 @@ const config = {
   seo: {
     title: 'Felix Helleckes - QA Engineer & Portfolio',
     description: 'Portfolio von Felix Helleckes, QA-Engineer mit Expertise in Test Automation, Playwright, Webdriver.io und CI/CD',
-    imageURL: 'https://avatars.githubusercontent.com/u/irgendwasmitfelix',
+    imageURL: 'https://avatars.githubusercontent.com/u/Felix-Helleckes',
   },
   social: {
     linkedin: 'felix-helleckes-758529202/',
