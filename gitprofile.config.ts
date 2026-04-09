@@ -80,7 +80,7 @@ const config = {
     //behance: '',
     //medium: 'arifszn',
     dev: 'felix-helleckes',
-    stackoverflow: 'https://stackoverflow.com/users/15774380/felix-helleckes', // example: '1/jeff-atwood'
+    stackoverflow: '15774380/felix-helleckes', // example: '1/jeff-atwood'
     //skype: '',
     //telegram: '',
     website: 'https://felix-helleckes.github.io/',
@@ -161,7 +161,7 @@ const config = {
   blog: {
     source: 'medium', // medium | dev
     username: 'florian.helleckes', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
+    limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: 'G-3JBR11V8QH', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
