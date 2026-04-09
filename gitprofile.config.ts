@@ -1,7 +1,6 @@
 // gitprofile.config.js
 
 const config = {
-  base: '/felix.helleckes.github.io/',
   github: {
     username: 'Felix-Helleckes', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
