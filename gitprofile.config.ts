@@ -160,7 +160,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'florian.helleckes', // to hide blog section, keep it empty
+    username: 'felix.helleckes', // to hide blog section, keep it empty
     limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -191,6 +191,7 @@ const config = {
       'black',
       'coffee',
       'lemonade',
+      'dracula',
       //'dark',
       // 'cupcake',
       // 'bumblebee',
@@ -208,8 +209,7 @@ const config = {
       // 'pastel',
       // 'fantasy',
       // 'wireframe',
-      // 'luxury',
-      // 'dracula',
+      // 'luxury', 
       // 'cmyk',
       // 'autumn',
       //'business',
