@@ -58,7 +58,7 @@ const config = {
           title: 'Leica Camera App',
           description:
             'The first almost 2 years at Grandcentrix I worked on the Leica camera app. I created a test concept for various cameras and a wide portfolio of Android and iOS versions. In addition, I managed the entire test process in Scrum, partly also with external service providers (personnel responsibility).',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Leica_Camera_logo.svg/2048px-Leica_Camera_logo.svg.png',
+          imageUrl: 'https://leica-camera.com/themes/custom/leica_redesign_theme/logo.svg',
           link: 'https://grandcentrix.net/de/references/leica',
         },
       ],
