@@ -78,7 +78,7 @@ const config = {
     youtube: 'TheEfficientDev', // example: 'pewdiepie'
     //dribbble: '',
     //behance: '',
-    //medium: 'arifszn',
+    medium: 'felix-helleckes',
     dev: 'felix-helleckes',
     stackoverflow: '15774380/felix-helleckes', // example: '1/jeff-atwood'
     //skype: '',
