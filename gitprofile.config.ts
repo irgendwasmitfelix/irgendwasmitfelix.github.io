@@ -71,10 +71,10 @@ const config = {
   },
   social: {
     linkedin: 'felix-helleckes-758529202/',
-    //twitter: 'irgendwasmitfelix',
+    //twitter: '',
     //mastodon: 'arifszn@mastodon.social',
     //facebook: '',
-    //instagram: 'irgendwasmitfelix',
+    //instagram: '',
     youtube: 'TheEfficientDev', // example: 'pewdiepie'
     //dribbble: '',
     //behance: '',
